@@ -1,0 +1,35 @@
+@media (max-width: 845px){
+.card1{
+    padding: 15px;
+}
+.card1 a{
+    font-weight: 100;
+    font-size: 10px;
+}
+
+header img{
+    width: 70px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+
+    .card{
+    width: 130px;
+    background: rgb(96, 180, 28);
+    border-radius: 25px;
+    text-align: center;
+    transition: 0.3s;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 20px;
+}
+.rak img{
+    width: 100px;;
+}
+.card button{
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    font-weight: 900;
+}
+
+}

@@ -1,0 +1,147 @@
+.f332{
+    display: flex;
+    color: rgb(0, 0, 0);
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 60vw;
+    gap: 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.f332 div{
+    border: 5px solid rgb(52, 119, 63);
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+}
+.f332 a{
+    text-decoration: none;
+    color: rgb(7, 87, 32);
+    transition: 0.3s;
+}
+.uft{
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 10px;
+}
+.uft div{
+    border: 5px solid rgb(52, 119, 63);
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+}
+.uft ul{
+    list-style: none;
+}
+.uft button{
+    padding: 10px 90px 10px 90px;
+    background-color: rgb(25, 96, 4);;
+    border-radius: 20px;
+    border-style: none;
+    font-weight: 900;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.3s;
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    cursor: pointer;
+}
+.uft button a{
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    text-decoration: none;
+}
+.uft button:hover{
+    scale: 1.05;
+    box-shadow: 0px 0px 20px rgb(121, 249, 1);
+}
+
+.uft a{
+    text-decoration: none;
+    color: rgb(7, 87, 32);
+}
+.f332 button{
+    padding: 10px 90px 10px 90px;
+    background-color: rgb(25, 96, 4);;
+    border-radius: 20px;
+    border-style: none;
+    font-weight: 900;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.3s;
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    cursor: pointer;
+}
+.f332 button a{
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    text-decoration: none;
+}
+.f332 button:hover{
+    scale: 1.05;
+    box-shadow: 0px 0px 20px rgb(121, 249, 1);
+}
+.f3324 button{
+    padding: 10px 90px 10px 90px;
+    background-color: rgb(25, 96, 4);;
+    border-radius: 20px;
+    border-style: none;
+    font-weight: 900;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.3s;
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    cursor: pointer;
+    
+}
+.f3324 button a{
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    text-decoration: none;
+}
+.f3324 button:hover{
+    scale: 1.05;
+    box-shadow: 0px 0px 20px rgb(121, 249, 1);
+}
+.f3324{
+    display: flex;
+    color: rgb(0, 0, 0);
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 700px;
+    gap: 10px;
+    margin: auto;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 300px;
+}
+.f3324 div{
+    border: 5px solid rgb(52, 119, 63);
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    max-width: 3000px;
+}
+
+.f33245 button{
+    padding: 10px 90px 10px 90px;
+    background-color: rgb(25, 96, 4);;
+    border-radius: 20px;
+    border-style: none;
+    font-weight: 900;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.3s;
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    cursor: pointer;
+
+}
+.f33245 button a{
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    text-decoration: none;
+
+}
+.f33245 button:hover{
+    scale: 1.05;
+    box-shadow: 0px 0px 20px rgb(121, 249, 1);
+}

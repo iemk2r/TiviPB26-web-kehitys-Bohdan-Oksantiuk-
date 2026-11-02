@@ -1,0 +1,89 @@
+@media(300px<= width <= 1200px){
+.buyimg1{
+    width: 50px;
+}
+.buyimg{
+    position: absolute;
+}
+.buyimg1 img{
+    width: 50px;
+    border-radius: 5px;
+}
+.main2 .buyimg img{
+    width: 200px;
+}
+.main2 h2{
+    margin-left: 50%;
+    font-size: 14px;
+}
+.main2 ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 300px;
+    text-shadow: 4px 0px 0 rgb(0, 0, 0);
+    color: whitesmoke;
+    font-weight: 500;
+    margin-left: 10px;
+    animation: h1 3s ease;
+    list-style: none;
+    position: absolute;
+    font-size: 10px;
+}
+.buybutton{
+    background-color: whitesmoke;
+    padding: 10px 20px 10px 20px;
+    height: 40px;
+}
+.buybutton button{
+    padding: 10px 50px 10px 50px;
+    cursor: pointer;
+}
+#golovnaconeinerum{
+    display: flex;
+    min-width: 100px;
+}
+.golovnaconeiner{
+    display: flex;
+    justify-content: center;
+    min-width: 100px;
+}
+}
+@media(500px<= width <= 1200px){
+    .main2 h2{
+    margin-left: 40%;
+    font-size: 14px;
+}
+}
+@media(550px<= width <= 1200px){
+    .main2 h2{
+    margin-left: 30%;
+    font-size: 14px;
+}
+}
+@media(550px<= width <= 670px){
+    .main2 h2{
+    margin-left: 35%;
+    font-size: 14px;
+}
+}
+@media(700px<= width <= 1200px){
+    .main2 h2{
+    margin-left: 27%;
+    font-size: 14px;
+}
+}
+@media(750px<= width <= 1200px){
+    .main2 h2{
+    margin-left: 27%;
+    font-size: 14px;
+}
+.main2 .buyimg img{
+    width: 200px;
+}
+}
+@media(350px<= width <= 450px){
+    .main2 h2{
+    margin-left: 55%;
+    font-size: 14px;
+}
+}
+

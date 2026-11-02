@@ -1,0 +1,92 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(37, 128, 98);
+    height: 100vh;
+}
+header{
+    background: url(img/5551.png) center/cover no-repeat;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+    text-shadow: 4px 4px 0 rgb(0, 0, 0);
+    object-fit: contain;
+    position: relative;
+    padding-bottom: 100px;
+}
+header h1{
+    text-align: center;
+    animation: h1 3s ease;
+    cursor:default;
+    padding-top: 50px;
+}
+
+header h2{
+    text-align: center;
+    animation: h1 3s ease;
+    cursor:default;
+}
+.main1{
+    background: linear-gradient(rgb(1, 85, 5),rgb(2, 69, 85));
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 320px;
+    background: rgb(96, 180, 28);
+    border-radius: 25px;
+    text-align: center;
+    transition: 0.3s;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 20px;
+    
+}
+
+.card:hover{
+    scale: 1.05;
+    box-shadow: 0px 0px 30px rgb(255, 255, 255);
+}
+.card button{
+    padding: 10px 90px 10px 90px;
+    background-color: rgb(25, 96, 4);;
+    border-radius: 20px;
+    border-style: none;
+    font-weight: 900;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition: 0.3s;
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    cursor: pointer;
+}
+.card button a{
+    color: whitesmoke;
+    text-shadow: 4px 4px 0px rgb(whitesmoke);
+    text-decoration: none;
+}
+
+.card button:hover{
+    scale: 1.05;
+    box-shadow: 0px 0px 20px rgb(121, 249, 1);
+}
+
+.rak img{
+    width: 250px;;
+}
+.rak{
+    color: whitesmoke;
+}
+footer{
+    background-color: rgb(1, 47, 6);
+    color: whitesmoke;
+    text-align: center;
+}
+footer a{
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    text-decoration: none;
+}
